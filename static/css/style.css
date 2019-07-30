@@ -1,0 +1,34 @@
+body
+{
+  padding: 0;
+  padding-top: 3.5rem;
+  margin: 0;
+}
+
+/* body,
+html {
+  height: 100%;
+} */
+
+#map {
+  height: 600px;
+  width: 100%;
+  position: relative;
+  margin-bottom: 5%;
+}
+.charts {
+  margin-top: 5%;
+}
+
+
+#scatter {
+  max-width: 1200px;
+}
+
+#scatter2 {
+  max-width: 1200px;
+}
+
+.chart-head {
+  text-align: center;
+}

@@ -128,7 +128,7 @@ html {
       position: absolute;
       top: 36px
   }
-  
+
   .intro .intro-body .container,
   .intro .intro-body .row {
       width: 100%;
@@ -183,6 +183,6 @@ html {
     top: 52px
   }
   .intro .intro-body .brand-heading {
-    font-size: 75px
+    font-size: 60px;
   }
 }

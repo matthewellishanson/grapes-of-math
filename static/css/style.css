@@ -257,3 +257,8 @@ img.ajmint-unveil {
   transition: opacity 500ms cubic-bezier(0, 0, 0.2, 1)
 }
 
+.main-head {
+  margin: 35px 0 35px 0;
+}
+
+

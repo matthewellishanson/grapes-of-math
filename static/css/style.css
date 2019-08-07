@@ -41,7 +41,8 @@ html {
   max-width: inherit;
   text-align: center;
   width: 100%;
-  left: -1px
+  left: -1px;
+  margin-bottom: 35px;
 }
 
 .intro {
@@ -261,4 +262,20 @@ img.ajmint-unveil {
   margin: 35px 0 35px 0;
 }
 
+.drop {
+  font-size: 60px;
+  float: left;
+  padding-top: 4px;
+  padding-right: 8px;
+  padding-left: 0;
+  line-height: 45px;
+  font-family: 'Fjalla One';
+  color: #561b8d
+}
 
+p {
+  margin: 0 0 35px;
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: left
+}
